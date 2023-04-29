@@ -1,12 +1,16 @@
 # Digify Garden
 
-A website using PHP and MySQL for converting 
+This is a preview code for a website which converts 
 garden data to digital using QR codes on a college campus
 
+## Tech Used
+
+**PHP** **MySQL:**
 
 ## Demo
- <p>
+
  - [Live Website](https://www.digifygarden.com/)
+ <p>
     <img src="preview/E-Garden.png"/>
 </p>
   
