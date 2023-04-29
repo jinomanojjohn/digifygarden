@@ -5,7 +5,7 @@ garden data to digital using QR codes on a college campus
 
 ## Tech Used
 
-**PHP** **MySQL:**
+**PHP,** **MySQL**
 
 ## Demo
 
